@@ -1,0 +1,1 @@
+// This file is now empty as the main function is in notification.dart
